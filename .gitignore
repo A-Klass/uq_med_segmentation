@@ -142,3 +142,4 @@ utils/data/
 logs/
 .vscode/
 .vscode.env
+wandb/
