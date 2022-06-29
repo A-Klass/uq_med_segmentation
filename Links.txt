@@ -1,0 +1,17 @@
+https://paperswithcode.com/paper/self-supervised-pre-training-of-swin
+
+https://github.com/Auggen21/LITS-Challenge
+
+https://ieeexplore.ieee.org/abstract/document/9053405
+
+https://github.com/ZJUGiveLab/UNet-Version
+
+https://www.frontiersin.org/articles/10.3389/fbioe.2020.605132/full
+
+https://www.jeremyjordan.me/semantic-segmentation/#advanced_unet
+
+https://www.researchgate.net/publication/345261283_Top_10_BraTS_2020_challenge_solution_Brain_tumor_segmentation_with_self-ensembled_deeply-supervised_3D-Unet_like_neural_networks
+
+https://github.com/Project-MONAI/research-contributions/tree/master/SwinUNETR/BRATS21
+
+https://arxiv.org/pdf/2110.02519.pdf
